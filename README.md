@@ -10,9 +10,9 @@ Have some 🍿 while you scroll through my profile ;)
 ####
 Also, follow me on my socials 🦉
 ##
-![image](https://github.com/harinisangaran/harinisangaran/assets/147630493/879b207b-4a9a-48e8-b54e-3a953db65bb9)
+![image](https://github.com/harinisangaran/harinisangaran/assets/147630493/4c2992ea-3f3e-428e-9714-150c8f72e1f3)
 ####
-![image](https://github.com/harinisangaran/E-Portfolio-TIS-02_2023/assets/147630493/240f6b40-7948-45ca-9ea8-b4156d1e48ad)
+![image](https://github.com/harinisangaran/harinisangaran/assets/147630493/80dc37a6-7b7b-4b6a-ad8c-663c5a9275a3)
 
 <!--
 **harinisangaran/harinisangaran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
