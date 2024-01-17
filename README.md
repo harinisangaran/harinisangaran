@@ -3,11 +3,11 @@
 👩🏽‍🎓I'm currently pursuing Bachelor of Computer Science (Data Engineering) in University of Technology Malaysia (UTM)
 #####
 Fun fact : I play saxophone 😎🎷I KNOW IT'S EVIDENT IN MY PROFILE PICTURE HAHAHAHAHAH
-#####
+####
 Have some 🍿 while you scroll through my profile ;)
-#####
+####
 Also, follow me on my socials 🦉
-##### 
+####
 Instagram - https://www.instagram.com/harini_sangaran?igsh=MmhnOHlxZHB1OHBv
 <!--
 **harinisangaran/harinisangaran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
