@@ -12,7 +12,8 @@ Also, follow me on my socials 🦉
 ##
 ![Screenshot 2023-12-27 164430](https://github.com/harinisangaran/harinisangaran/assets/147630493/06027890-6979-40bc-90ac-284632c57a1c)
 ####
-![image](https://github.com/harinisangaran/harinisangaran/assets/147630493/80dc37a6-7b7b-4b6a-ad8c-663c5a9275a3)
+![Screenshot 2023-12-27 164458](https://github.com/harinisangaran/harinisangaran/assets/147630493/f04e29e6-8fb9-404c-8ffd-37cf8569dad1)
+
 
 <!--
 **harinisangaran/harinisangaran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
