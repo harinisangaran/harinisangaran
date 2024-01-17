@@ -4,7 +4,7 @@
 #####
 Skills : Proficient in C++ and Javascript
 #####
-Fun fact : I play saxophone 😎🎷I KNOW IT'S EVIDENT IN MY PROFILE PICTURE HAHAHAHAHAH
+Fun fact : I play saxophone 😎🎷
 ####
 Have some 🍿 while you scroll through my profile ;)
 ####
