@@ -10,7 +10,7 @@ Have some 🍿 while you scroll through my profile ;)
 ####
 Also, follow me on my socials 🦉
 ##
-![image](https://github.com/harinisangaran/harinisangaran/assets/147630493/4c2992ea-3f3e-428e-9714-150c8f72e1f3)
+![Screenshot 2023-12-27 164430](https://github.com/harinisangaran/harinisangaran/assets/147630493/06027890-6979-40bc-90ac-284632c57a1c)
 ####
 ![image](https://github.com/harinisangaran/harinisangaran/assets/147630493/80dc37a6-7b7b-4b6a-ad8c-663c5a9275a3)
 
