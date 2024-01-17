@@ -1,5 +1,7 @@
-### Hi there 👋
+### Hi there 👋🏽
 
+👩🏽‍🎓I'm currently pursuing Bachelor of Computer Science (Data Engineering) in University of Technology Malaysia (UTM)
+Fun fact : I play saxophone 😎🎷
 <!--
 **harinisangaran/harinisangaran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
