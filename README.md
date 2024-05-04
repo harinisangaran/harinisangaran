@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **harini.sangaran@gmail.com**
 
-- To know more about my experiences, here is [my resume](https://drive.google.com/drive/u/0/home)
+- To know more about my experiences, here is [my resume](https://drive.google.com/file/d/1glPeV81w_uM7MLwcbS3BPv44TP8hXD0m/view?usp=sharing)
 
 
 <br>
