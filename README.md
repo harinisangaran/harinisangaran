@@ -18,7 +18,9 @@
   
 - There's more to know about me but I'll save it for when you get to know me ;)
 
-- 📫 How to reach me **harini.sangaran@gmail.com** 
+- 📫 How to reach me **harini.sangaran@gmail.com**
+
+- To know more about my experiences, here is [my resume](https://drive.google.com/drive/u/0/home)
 
 
 <br>
