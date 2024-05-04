@@ -14,7 +14,7 @@
   
 - ✖️➗ LOVEEEE maths
   
-- 🐾🌊🏕️ love exploring the woods and oceans with the tiniest bit of fright XD
+- 🐾🌊🏕️ Love exploring the woods and oceans with the tiniest bit of fright XD
   
 - There's more to know about me but I'll save it for when you get to know me ;)
 
