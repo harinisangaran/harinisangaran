@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **harini.sangaran@gmail.com**
 
-  
+- file:///C:/Users/harin/OneDrive/Documents/Harini/UTM/SEM%201/Resume_Harini%20Sangaran.pdf  
 
 
 <br>
