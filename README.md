@@ -18,9 +18,7 @@
   
 - There's more to know about me but I'll save it for when you get to know me ;)
 
-- 📫 How to reach me **harini.sangaran@gmail.com**
-
-- file:///C:/Users/harin/OneDrive/Documents/Harini/UTM/SEM%201/Resume_Harini%20Sangaran.pdf  
+- 📫 How to reach me **harini.sangaran@gmail.com** 
 
 
 <br>
