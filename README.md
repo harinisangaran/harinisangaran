@@ -6,7 +6,7 @@
 ## 👩‍💻About Me
 
 - 👩🏽‍💻 Currently a Year 3 student studying Data Engineering at Universiti Teknologi Malaysia
-- 🤓 Proficient with C++, Javascript, HTML, PHP and MySQL 
+- 🤓 Proficient with C++, Java, Javascript, HTML, PHP and MySQL 
 - 📚 Actively trying to improve my coding skills in Python
 - 🎷 Fun fact : I play alto saxophone ;)
   
