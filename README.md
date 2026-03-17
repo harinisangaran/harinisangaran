@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋 I'm Harini Sangaran</h1>
 <h3 align="center">UTM Johor Bahru Undergraduate 🏫</h3>
 
-<br>
-
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
 ## 👩‍💻About Me
