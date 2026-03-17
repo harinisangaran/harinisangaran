@@ -15,7 +15,7 @@
 - 🎷 Fun fact : I play alto saxophone ;)
   
 ### 🕹️My CV
-[Feel free to have a look at my CV! 😊](https://faustinalyc.github.io/)
+[Feel free to have a look at my CV! 😊](https://drive.google.com/file/d/15ioSh0rRpnMvdyvuelmLZ_d2x3MoTOAF/view)
 
 
 ## 🏫 Education Background
@@ -46,28 +46,3 @@
 
 ## 🔥GitHub Streak
 [![GitHub Streak](https://streak-stats.demolab.com?user=faustinalyc&theme=duskfox)](https://git.io/streak-stats)
-
-<br>
-=
-<h3 align"left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.instagram.com/harini_sangaran?igsh=MmhnOHlxZHB1OHBv" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-      alt="_._.adam._" height="30" width="40" /></a>
-
-<br>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg"
-      alt="android" width="40" height="40" /> 
-     </a> <a href="https://www.cprogramming.com/" target="_blank"
-    rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
-      alt="cplusplus" width="40" height="40" /> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"
-    rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-      alt="javascript" width="40" height="40" /> 
-   </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"
-      width="40" height="40" /> 
