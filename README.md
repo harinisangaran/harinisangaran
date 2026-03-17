@@ -32,7 +32,7 @@
 - SPM: 10As
 
 ## 🕸️ Let's Connect
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt ="me in linkedin" height="auto" width="20" /> [LinkedIn](www.linkedin.com/in/harini-sangaran-8b85612aa)
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt ="me in linkedin" height="auto" width="20" /> [LinkedIn](https://www.linkedin.com/in/harini-sangaran-8b85612aa/)
 <img align="center" src="https://cdn-icons-png.flaticon.com/128/2111/2111463.png" alt ="instagram" height="auto" width="20" /> [Instagram](https://www.instagram.com/harini_sangaran?igsh=MmhnOHlxZHB1OHBv)
 
 ## 📈GitHub Stats
