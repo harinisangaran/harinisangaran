@@ -36,13 +36,13 @@
 - SPM: 10As
 
 ## 🕸️ Let's Connect
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt ="me in linkedin" height="auto" width="20" /> [LinkedIn](https://www.linkedin.com/in/lauyeechi0915/)
-<img align="center" src="https://cdn-icons-png.flaticon.com/128/2111/2111463.png" alt ="instagram" height="auto" width="20" /> [Instagram](https://www.instagram.com/faustinalyc_/)
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt ="me in linkedin" height="auto" width="20" /> [LinkedIn](www.linkedin.com/in/harini-sangaran-8b85612aa)
+<img align="center" src="https://cdn-icons-png.flaticon.com/128/2111/2111463.png" alt ="instagram" height="auto" width="20" /> [Instagram](https://www.instagram.com/harini_sangaran?igsh=MmhnOHlxZHB1OHBv)
 
 ## 📈GitHub Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=faustinalyc&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faustinalyc&hide_progress=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=harinisangaran&show_icons=true&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harinisangaran&hide_progress=true)
 
 
 ## 🔥GitHub Streak
-[![GitHub Streak](https://streak-stats.demolab.com?user=faustinalyc&theme=duskfox)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=harinisangaran&theme=duskfox)](https://git.io/streak-stats)
