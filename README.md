@@ -24,26 +24,34 @@
 
 My coursework, assignments, and projects throughout my degree at UTM are documented below :)
 
-| Folder | Description |
-|---------|-------------|
-| 📂 [Business-Intelligence](https://github.com/harinisangaran/Coursework/tree/main/Business-Intelligence) | Business Intelligence dashboards, reporting, and analytics projects |
-| 📂 [data-mining](https://github.com/harinisangaran/Coursework/tree/main/data-mining) | Classification, clustering, association rule mining, and data preprocessing |
-| 📂 [dap](https://github.com/harinisangaran/Coursework/tree/main/dap) | Data Analytics & Programming assignments and projects |
-| 📂 [ai](https://github.com/harinisangaran/Coursework/tree/main/ai) | Artificial Intelligence algorithms and practical implementations |
-| 📂 [Database](https://github.com/harinisangaran/Coursework/tree/main/Database) | Database design, SQL, normalization, and ERD exercises |
-| 📂 [database-programming](https://github.com/harinisangaran/Coursework/tree/main/database-programming) | Advanced SQL, triggers, procedures, and database applications |
-| 📂 [dsa](https://github.com/harinisangaran/Coursework/tree/main/dsa) | Data Structures and Algorithms implementations |
-| 📂 [Software-Engineering](https://github.com/harinisangaran/Coursework/tree/main/Software-Engineering) | SDLC, UML diagrams, software design, and documentation |
-| 📂 [Enterprise](https://github.com/harinisangaran/Coursework/tree/main/Enterprise) | Enterprise Architecture, ERP, TOGAF, and system integration |
-| 📂 [operating-system](https://github.com/harinisangaran/Coursework/tree/main/operating-system) | Process management, memory allocation, and scheduling concepts |
-| 📂 [network-and-communications](https://github.com/harinisangaran/Coursework/tree/main/network-and-communications) | Networking protocols, TCP/IP, and communication systems |
-| 📂 [coa](https://github.com/harinisangaran/Coursework/tree/main/coa) | Computer Organization and Architecture exercises |
-| 📂 [probability-and-statistics](https://github.com/harinisangaran/Coursework/tree/main/probability-and-statistics) | Statistical analysis and probability concepts |
-| 📂 [OOP-Project](https://github.com/harinisangaran/Coursework/tree/main/OOP-Project) | Object-Oriented Programming projects and assignments |
-| 📂 [Discreet-Structure](https://github.com/harinisangaran/Coursework/tree/main/Discreet-Structure) | Logic, graph theory, sets, and combinatorics |
-| 📂 [Programming-technique](https://github.com/harinisangaran/Coursework/tree/main/Programming-technique) | Programming fundamentals and algorithm development |
-| 📂[Technology-and-Information-System](https://github.com/harinisangaran/Coursework/tree/main/Technology-and-Information-System) | Information systems concepts and technology foundations |
-| 📂 [Digital-logic](https://github.com/harinisangaran/Coursework/tree/main/Digital-logic) | Boolean algebra, logic circuits, and Karnaugh maps |
+| Folder |
+|---------|
+| 📂 [Application-Development](https://github.com/harinisangaran/Coursework/tree/main/application-development) |
+| 📂 [High-Performance-Data-Processing](https://github.com/harinisangaran/Coursework/tree/main/high-performance-data-processing) |
+| 📂 [Business-Intelligence](https://github.com/harinisangaran/Coursework/tree/main/Business-Intelligence) |
+| 📂 [Special-Topic-In-Data-Engineering](https://github.com/harinisangaran/Coursework/tree/main/special-topic-in-data-engineering) |
+| 📂 [Artificial Intelligence](https://github.com/harinisangaran/Coursework/tree/main/ai) |
+| 📂 [Database-Programming](https://github.com/harinisangaran/Coursework/tree/main/database-programming) |
+| 📂 [Enterprise-System-Design-and-Modelling](https://github.com/harinisangaran/Coursework/tree/main/Enterprise) |
+| 📂 [Technopreneurship-Seminar](https://github.com/harinisangaran/Coursework/tree/main/technopreneurship-seminar) |
+| 📂 [Object-Oriented-Programming](https://github.com/harinisangaran/Coursework/tree/main/OOP-Project) |
+| 📂 [Data-Mining](https://github.com/harinisangaran/Coursework/tree/main/data-mining) |
+| 📂 [Data-Analytics-Programming](https://github.com/harinisangaran/Coursework/tree/main/dap) |
+| 📂 [Operating-System](https://github.com/harinisangaran/Coursework/tree/main/operating-system) |
+| 📂 [Data-Structure-and-Algorithm](https://github.com/harinisangaran/Coursework/tree/main/dsa) |
+| 📂 [Database](https://github.com/harinisangaran/Coursework/tree/main/Database) |
+| 📂 [Software-Engineering](https://github.com/harinisangaran/Coursework/tree/main/Software-Engineering) |
+| 📂 [System-Development-Technology](https://github.com/harinisangaran/Coursework/tree/main/system-development-technology) |
+| 📂 [Network-and-Communications](https://github.com/harinisangaran/Coursework/tree/main/network-and-communications) |
+| 📂 [Probability-and-Statistical-Data-Analysis](https://github.com/harinisangaran/Coursework/tree/main/probability-and-statistics) |
+| 📂 [Programming-Technique-II](https://github.com/harinisangaran/Coursework/tree/main/programming-technique-ii) |
+| 📂 [System-Analysis-and-Design](https://github.com/harinisangaran/Coursework/tree/main/system-analysis-and-design) |
+| 📂 [Computer-Organization-and-Architecture](https://github.com/harinisangaran/Coursework/tree/main/coa) |
+| 📂 [Human-Computer-Interaction](https://github.com/harinisangaran/Coursework/tree/main/human-computer-interaction) |
+| 📂 [Discreet-Structure](https://github.com/harinisangaran/Coursework/tree/main/Discreet-Structure) |
+| 📂 [Programming-Technique-I](https://github.com/harinisangaran/Coursework/tree/main/programming-technique-i) |
+| 📂 [Technology-and-Information-System](https://github.com/harinisangaran/Coursework/tree/main/programming-technique-i) |
+| 📂 [Digital-Logic](https://github.com/harinisangaran/Coursework/tree/main/programming-technique-i) |
 
 
 ---
