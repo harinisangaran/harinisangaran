@@ -26,32 +26,32 @@ My coursework, assignments, and projects throughout my degree at UTM are documen
 
 | Folder |
 |---------|
-| 📂 [Application-Development](https://github.com/harinisangaran/Coursework/tree/main/application-development) |
-| 📂 [High-Performance-Data-Processing](https://github.com/harinisangaran/Coursework/tree/main/high-performance-data-processing) |
-| 📂 [Business-Intelligence](https://github.com/harinisangaran/Coursework/tree/main/Business-Intelligence) |
-| 📂 [Special-Topic-In-Data-Engineering](https://github.com/harinisangaran/Coursework/tree/main/special-topic-in-data-engineering) |
-| 📂 [Artificial Intelligence](https://github.com/harinisangaran/Coursework/tree/main/ai) |
-| 📂 [Database-Programming](https://github.com/harinisangaran/Coursework/tree/main/database-programming) |
-| 📂 [Enterprise-System-Design-and-Modelling](https://github.com/harinisangaran/Coursework/tree/main/Enterprise) |
-| 📂 [Technopreneurship-Seminar](https://github.com/harinisangaran/Coursework/tree/main/technopreneurship-seminar) |
-| 📂 [Object-Oriented-Programming](https://github.com/harinisangaran/Coursework/tree/main/OOP-Project) |
-| 📂 [Data-Mining](https://github.com/harinisangaran/Coursework/tree/main/data-mining) |
+| 📂 [Application-Development](https://github.com/harinisangaran/Courseworks/tree/main/Application%20Development) |
+| 📂 [High-Performance-Data-Processing](https://github.com/harinisangaran/Courseworks/tree/main/High%20Performance%20Data%20Processing) |
+| 📂 [Business-Intelligence](https://github.com/harinisangaran/Courseworks/tree/main/Business%20Intelligence) |
+| 📂 [Special-Topic-In-Data-Engineering](https://github.com/harinisangaran/Courseworks/tree/main/Special%20Topics%20in%20Data%20Engineering) |
+| 📂 [Artificial Intelligence](https://github.com/harinisangaran/Courseworks/tree/main/Artificial%20Intelligence) |
+| 📂 [Database-Programming](https://github.com/harinisangaran/Courseworks/tree/main/Database%20Programming) |
+| 📂 [Enterprise-System-Design-and-Modelling](https://github.com/harinisangaran/Courseworks/tree/main/Enterprise%20System%20Design%20and%20Modelling) |
+| 📂 [Technopreneurship-Seminar](https://github.com/harinisangaran/Courseworks/tree/main/Technopreneurship%20Seminar) |
+| 📂 [Object-Oriented-Programming](https://github.com/harinisangaran/Courseworks/tree/main/Object%20Oriented%20Programming) |
+| 📂 [Data-Mining](https://github.com/harinisangaran/Courseworks/tree/main/Data%20Mining) |
 | 📂 [Data-Analytics-Programming](https://github.com/harinisangaran/Coursework/tree/main/dap) |
 | 📂 [Operating-System](https://github.com/harinisangaran/Coursework/tree/main/operating-system) |
-| 📂 [Data-Structure-and-Algorithm](https://github.com/harinisangaran/Coursework/tree/main/dsa) |
-| 📂 [Database](https://github.com/harinisangaran/Coursework/tree/main/Database) |
-| 📂 [Software-Engineering](https://github.com/harinisangaran/Coursework/tree/main/Software-Engineering) |
-| 📂 [System-Development-Technology](https://github.com/harinisangaran/Coursework/tree/main/system-development-technology) |
-| 📂 [Network-and-Communications](https://github.com/harinisangaran/Coursework/tree/main/network-and-communications) |
-| 📂 [Probability-and-Statistical-Data-Analysis](https://github.com/harinisangaran/Coursework/tree/main/probability-and-statistics) |
-| 📂 [Programming-Technique-II](https://github.com/harinisangaran/Coursework/tree/main/programming-technique-ii) |
-| 📂 [System-Analysis-and-Design](https://github.com/harinisangaran/Coursework/tree/main/system-analysis-and-design) |
-| 📂 [Computer-Organization-and-Architecture](https://github.com/harinisangaran/Coursework/tree/main/coa) |
-| 📂 [Human-Computer-Interaction](https://github.com/harinisangaran/Coursework/tree/main/human-computer-interaction) |
-| 📂 [Discreet-Structure](https://github.com/harinisangaran/Coursework/tree/main/Discreet-Structure) |
-| 📂 [Programming-Technique-I](https://github.com/harinisangaran/Coursework/tree/main/programming-technique-i) |
-| 📂 [Technology-and-Information-System](https://github.com/harinisangaran/Coursework/tree/main/programming-technique-i) |
-| 📂 [Digital-Logic](https://github.com/harinisangaran/Coursework/tree/main/programming-technique-i) |
+| 📂 [Data-Structure-and-Algorithm](https://github.com/harinisangaran/Courseworks/tree/main/Data%20Structure%20and%20Algorithm) |
+| 📂 [Database](https://github.com/harinisangaran/Courseworks/tree/main/Database) |
+| 📂 [Software-Engineering](https://github.com/harinisangaran/Courseworks/tree/main/Software%20Engineering) |
+| 📂 [System-Development-Technology](https://github.com/harinisangaran/Courseworks/tree/main/System%20Development%20Technology) |
+| 📂 [Network-and-Communications](https://github.com/harinisangaran/Courseworks/tree/main/Network%20Communications) |
+| 📂 [Probability-and-Statistical-Data-Analysis](https://github.com/harinisangaran/Courseworks/tree/main/Probability%20and%20Statistical%20Data%20Analysis) |
+| 📂 [Programming-Technique-II](https://github.com/harinisangaran/Courseworks/tree/main/Programming%20Technique%20II) |
+| 📂 [System-Analysis-and-Design](https://github.com/harinisangaran/Courseworks/tree/main/System%20Analysis%20and%20Design) |
+| 📂 [Computer-Organization-and-Architecture](https://github.com/harinisangaran/Courseworks/tree/main/Computer%20Organization%20and%20Architecture) |
+| 📂 [Human-Computer-Interaction](https://github.com/harinisangaran/Courseworks/tree/main/Human%20Computer%20Interaction) |
+| 📂 [Discreet-Structure](https://github.com/harinisangaran/Courseworks/tree/main/Discrete%20Structure) |
+| 📂 [Programming-Technique-I](https://github.com/harinisangaran/Courseworks/tree/main/Programming%20Technique%20I) |
+| 📂 [Technology-and-Information-System](https://github.com/harinisangaran/Courseworks/tree/main/Technology%20and%20Information%20System) |
+| 📂 [Digital-Logic](https://github.com/harinisangaran/Courseworks/tree/main/Digital%20Logic) |
 
 
 ---
