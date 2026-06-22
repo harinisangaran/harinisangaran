@@ -13,9 +13,9 @@
 ### 🕹️My CV
 [Feel free to have a look at my CV! 😊](https://drive.google.com/file/d/15ioSh0rRpnMvdyvuelmLZ_d2x3MoTOAF/view)
 
-
-
 <br> 
+<br>
+<br>
 
 ## 📚 Academic Course Repositories
 
