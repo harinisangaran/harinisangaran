@@ -40,10 +40,10 @@ My coursework, assignments, and projects throughout my degree at UTM are documen
 | 📂 [coa](https://github.com/harinisangaran/Coursework/tree/main/coa) | Computer Organization and Architecture exercises |
 | 📂 [probability-and-statistics](https://github.com/harinisangaran/Coursework/tree/main/probability-and-statistics) | Statistical analysis and probability concepts |
 | 📂 [OOP-Project](https://github.com/harinisangaran/Coursework/tree/main/OOP-Project) | Object-Oriented Programming projects and assignments |
+| 📂 [Discreet-Structure](https://github.com/harinisangaran/Coursework/tree/main/Discreet-Structure) | Logic, graph theory, sets, and combinatorics |
 | 📂 [Programming-technique](https://github.com/harinisangaran/Coursework/tree/main/Programming-technique) | Programming fundamentals and algorithm development |
-| 📂 [Discreet-structure](https://github.com/harinisangaran/Coursework/tree/main/Discreet-structure) | Logic, graph theory, sets, and combinatorics |
+| 📂[Technology-and-Information-System](https://github.com/harinisangaran/Coursework/tree/main/Technology-and-Information-System) | Information systems concepts and technology foundations |
 | 📂 [Digital-logic](https://github.com/harinisangaran/Coursework/tree/main/Digital-logic) | Boolean algebra, logic circuits, and Karnaugh maps |
-| 📂 [Technology-and-Information-System](https://github.com/harinisangaran/Coursework/tree/main/Technology-and-Information-System) | Information systems concepts and technology foundations |
 
 
 ---
